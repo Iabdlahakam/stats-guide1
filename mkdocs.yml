@@ -1,0 +1,6 @@
+
+site_name: Statistical Methods for Clinical Research
+theme:
+  name: material
+nav:
+  - Home: index.md
