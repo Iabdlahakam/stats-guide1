@@ -1,6 +1,11 @@
-
-site_name: Statistical Methods for Clinical Research
+site_name: Research Consultancy & AI Research Associate
 theme:
   name: material
 nav:
   - Home: index.md
+  - Mission: mission.md
+  - Services: services.md
+  - AI Assistant: ai-assistant.md
+  - Launch Plan: launch-plan.md
+  - Social Media: social-media.md
+  - Statistical Guide: statistical-guide.md
