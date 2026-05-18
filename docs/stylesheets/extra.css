@@ -1,0 +1,31 @@
+:root {
+  --crc-navy: #0b1f3a;
+  --crc-teal: #0f9d9a;
+  --crc-light: #f4fbfb;
+}
+
+.md-header,
+.md-tabs {
+  background-color: var(--crc-navy);
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  color: var(--crc-navy);
+}
+
+.md-typeset a {
+  color: var(--crc-teal);
+}
+
+.crc-callout {
+  border-left: 0.25rem solid var(--crc-teal);
+  background: var(--crc-light);
+  padding: 0.8rem 1rem;
+  margin: 1rem 0;
+}
+
+.crc-tagline {
+  color: var(--crc-navy);
+  font-weight: 700;
+}

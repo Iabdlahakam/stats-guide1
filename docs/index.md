@@ -1,61 +1,68 @@
-# Research Consultancy & AI Research Associate
+# Clinical Research Compass
 
-> Building a research-support company that helps residents, fellows, students, and early-career clinicians move from an idea to an organized, ethical, analysis-ready research project.
+> **Expert guidance for rigorous and impactful clinical research.**
 
-## Mission
+Clinical Research Compass is a clinical research consultancy and guidance platform for residents, fellows, students, and clinical teams who need a clearer path from research idea to protocol, data plan, analysis plan, and publishable output.
 
-To make high-quality clinical research support accessible, structured, and practical for busy learners and clinicians by combining expert guidance, reusable research workflows, and a private AI research associate.
+<div class="crc-callout">
+<strong>Official mission:</strong> To provide expert, independent guidance that strengthens the design, interpretation, and impact of clinical research.
+</div>
+
+## What We Are Building
+
+Clinical Research Compass should grow in two connected tracks:
+
+1. **A professional consultancy** that delivers clear research guidance, educational tools, and done-with-you planning support.
+2. **A private AI research assistant** that helps prepare structured drafts, check consistency, and make the consultancy easier to operate.
+
+The first public-facing product should be educational and trust-building. The first operational product should be an internal assistant that makes delivery faster while keeping expert review in control.
 
 ## Who We Serve
 
-- Residents who need help turning a clinical idea into a feasible scholarly project.
+- Residents turning clinical observations into feasible scholarly projects.
 - Fellows preparing protocols, abstracts, posters, manuscripts, or quality-improvement work.
-- Medical and health-science students learning how to design and execute research.
-- Junior faculty and research teams that need structured documentation and project support.
+- Medical and health-science students learning clinical research methods.
+- Junior faculty and clinical teams that need structured research planning support.
 
 ## Core Promise
 
-We help clients move from **confusion to execution** by producing clear, editable deliverables:
+We help clients move from uncertainty to a structured research plan by producing practical, editable deliverables:
 
-- Research question and PICOT framework
-- Study design recommendation
-- Protocol outline or draft
-- IRB/ethics preparation checklist
-- Data collection plan
-- Data dictionary and variable list
-- Data quality plan
-- Statistical analysis plan outline
-- Timeline and action plan
-- Manuscript, abstract, or poster roadmap
+- Research question frameworks, including PICOT, PEO, and SPIDER.
+- Study design recommendation.
+- Protocol outline or draft.
+- Ethics and IRB preparation checklist.
+- Data collection plan.
+- Data dictionary and variable list.
+- Data quality plan.
+- Statistical analysis plan outline.
+- Timeline and action plan.
+- Manuscript, abstract, or poster roadmap.
 
-## Company-Building Priorities
+## First Content Product
 
-1. **Launch the mission website** so people understand the offer and can request help.
-2. **Create professional brand accounts** across email, social media, and video channels.
-3. **Start publishing educational content** that builds trust with residents and fellows.
-4. **Operate a concierge research service first** using templates and expert review.
-5. **Build the private AI assistant** to make delivery faster and more consistent.
-6. **Convert repeated workflows into a client-facing app** after demand is proven.
+Start with the **Research Question Starter Pack** because every research project needs a well-built question before protocol writing, data collection, or analysis planning.
 
-## Recommended First Offer
+The starter pack should include:
 
-### Resident Research Launch Package
+- PICOT worksheet.
+- PEO worksheet.
+- SPIDER worksheet.
+- Branded cover page.
+- Matching educational infographic posts for each framework.
+- A consistent call to action: **“Comment COMPASS for the worksheet.”**
 
-A practical starter package for residents, fellows, or students with a research idea but no clear execution plan.
+## Step-by-Step Next Direction
 
-**Deliverables:**
-
-- 30-minute intake or structured intake form
-- Refined research question
-- PICOT framework
-- Study design recommendation
-- Required data elements
-- Data collection plan
-- Statistical analysis plan outline
-- 30-day action plan
-
-**Suggested beta price:** $199–$499.
+1. Lock the brand system and use it consistently.
+2. Publish the PICOT educational post and worksheet as the first lead magnet.
+3. Build the complete Research Question Starter Pack with PICOT, PEO, and SPIDER.
+4. Create a simple landing page that collects emails and research-support inquiries.
+5. Open professional brand accounts using the same name, logo, tagline, and bio.
+6. Start weekly educational content using the full explainer format.
+7. Build the internal AI assistant around intake, research-question refinement, document drafting, and quality review.
+8. Offer a small number of paid consulting packages after the first audience-building content is live.
 
 ## Important Disclaimer
 
-This service provides research planning, education, documentation support, and workflow assistance. It does not replace institutional review board review, legal advice, regulatory approval, clinical judgment, or formal statistical consultation for complex/high-risk studies.
+Clinical Research Compass provides educational research guidance, documentation support, and workflow assistance. It does not replace institutional review board review, legal or regulatory advice, clinical judgment, or formal statistical consultation for complex or high-risk studies.
