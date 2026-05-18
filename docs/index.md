@@ -1,138 +1,68 @@
+# Clinical Research Compass
 
-# Statistical Methods for Clinical Research
+> **Expert guidance for rigorous and impactful clinical research.**
 
-> A Trusted Guide to Test Selection, Analysis, and Reporting  
-> *By Dr. Ibrahem Abdalhakam*
+Clinical Research Compass is a clinical research consultancy and guidance platform for residents, fellows, students, and clinical teams who need a clearer path from research idea to protocol, data plan, analysis plan, and publishable output.
 
----
+<div class="crc-callout">
+<strong>Official mission:</strong> To provide expert, independent guidance that strengthens the design, interpretation, and impact of clinical research.
+</div>
 
-## Table of Contents
-- Chapter 1: Defining Your Research Question
-- Chapter 2: Understanding Variable Types
-- Chapter 3: Selecting the Right Statistical Test
-- Chapter 4: Hypothesis Testing and Inference
-- Chapter 5: Comparing Two or More Groups
-- Chapter 6: Regression and Correlation
-- Chapter 7: Survival Analysis
-- Chapter 8: Diagnostic Accuracy
-- Chapter 9: Ethics and Transparency
-- Chapter 10: Practical Tips and Recap
+## What We Are Building
 
----
+Clinical Research Compass should grow in two connected tracks:
 
-## Chapter 1: Defining Your Research Question
+1. **A professional consultancy** that delivers clear research guidance, educational tools, and done-with-you planning support.
+2. **A private AI research assistant** that helps prepare structured drafts, check consistency, and make the consultancy easier to operate.
 
-Use the PICOT format to guide question design:
-- **P**: Population
-- **I**: Intervention
-- **C**: Comparison
-- **O**: Outcome
-- **T**: Timeframe
+The first public-facing product should be educational and trust-building. The first operational product should be an internal assistant that makes delivery faster while keeping expert review in control.
 
-**Example**: "In adults with type 2 diabetes, does a plant-based diet compared to a low-carb diet improve HbA1c after 3 months?"
+## Who We Serve
 
----
+- Residents turning clinical observations into feasible scholarly projects.
+- Fellows preparing protocols, abstracts, posters, manuscripts, or quality-improvement work.
+- Medical and health-science students learning clinical research methods.
+- Junior faculty and clinical teams that need structured research planning support.
 
-## Chapter 2: Understanding Variable Types
+## Core Promise
 
-| Variable | Type | Scale |
-|----------|------|-------|
-| Gender   | Categorical | Nominal |
-| Pain Score | Ordinal | Ordinal |
-| HbA1c    | Continuous | Ratio |
-| Temperature (C) | Continuous | Interval |
+We help clients move from uncertainty to a structured research plan by producing practical, editable deliverables:
 
----
+- Research question frameworks, including PICOT, PEO, and SPIDER.
+- Study design recommendation.
+- Protocol outline or draft.
+- Ethics and IRB preparation checklist.
+- Data collection plan.
+- Data dictionary and variable list.
+- Data quality plan.
+- Statistical analysis plan outline.
+- Timeline and action plan.
+- Manuscript, abstract, or poster roadmap.
 
-## Chapter 3: Selecting the Right Statistical Test
+## First Content Product
 
-Use this guide:
+Start with the **Research Question Starter Pack** because every research project needs a well-built question before protocol writing, data collection, or analysis planning.
 
-| Objective | Data Type | Test |
-|-----------|-----------|------|
-| Compare means (2 groups) | Continuous, independent | t-test |
-| Compare means (3+ groups) | Continuous, multiple groups | ANOVA |
-| Compare medians | Ordinal or skewed | Mann-Whitney U |
-| Compare proportions | Categorical | Chi-squared / Fisher |
-| Predict binary outcome | Binary outcome, predictors | Logistic regression |
+The starter pack should include:
 
----
+- PICOT worksheet.
+- PEO worksheet.
+- SPIDER worksheet.
+- Branded cover page.
+- Matching educational infographic posts for each framework.
+- A consistent call to action: **“Comment COMPASS for the worksheet.”**
 
-## Chapter 4: Hypothesis Testing and Inference
+## Step-by-Step Next Direction
 
-| Term | Definition |
-|------|------------|
-| Null Hypothesis (H0) | No difference |
-| Alternative (H1) | There is a difference |
-| p-value | Probability of observing this data if H0 were true |
-| Confidence Interval | Range of likely values for an estimate |
-| Effect Size | Magnitude of the observed effect |
+1. Lock the brand system and use it consistently.
+2. Publish the PICOT educational post and worksheet as the first lead magnet.
+3. Build the complete Research Question Starter Pack with PICOT, PEO, and SPIDER.
+4. Create a simple landing page that collects emails and research-support inquiries.
+5. Open professional brand accounts using the same name, logo, tagline, and bio.
+6. Start weekly educational content using the full explainer format.
+7. Build the internal AI assistant around intake, research-question refinement, document drafting, and quality review.
+8. Offer a small number of paid consulting packages after the first audience-building content is live.
 
----
+## Important Disclaimer
 
-## Chapter 5: Comparing Two or More Groups
-
-Use:
-- **t-test**: two means
-- **Paired t-test**: same group before/after
-- **Mann-Whitney U**: two medians
-- **ANOVA**: more than 2 groups
-- **Kruskal-Wallis**: non-parametric alternative to ANOVA
-
----
-
-## Chapter 6: Regression and Correlation
-
-- **Pearson correlation**: linear relationship
-- **Spearman**: monotonic but not linear
-- **Linear regression**: continuous outcome
-- **Logistic regression**: binary outcome
-
----
-
-## Chapter 7: Survival Analysis
-
-Used for time-to-event data:
-- **Kaplan-Meier**: plots survival probability
-- **Log-rank test**: compares curves
-- **Cox regression**: adjusts for covariates
-
----
-
-## Chapter 8: Diagnostic Accuracy
-
-Key metrics:
-- **Sensitivity**: True positive rate
-- **Specificity**: True negative rate
-- **PPV/NPV**: Predictive values
-- **ROC Curve**: Discrimination ability
-
----
-
-## Chapter 9: Ethics and Transparency
-
-Avoid:
-- P-hacking
-- Selective reporting
-- Subgroup overuse without justification
-
-Always:
-- Report effect sizes and confidence intervals
-- Pre-specify analysis plans
-
----
-
-## Chapter 10: Practical Tips and Recap
-
-- Match your test to your data type and design
-- Always check assumptions
-- Prefer confidence intervals and effect sizes
-- Consider clinical importance, not just p-values
-
----
-
-## Ask the AI for Help!
-
-Try this AI-powered assistant:  
-👉 [Ask Clinical Research Co-Pilot GPT](https://chat.openai.com/g/g-your-custom-gpt-link)
-
+Clinical Research Compass provides educational research guidance, documentation support, and workflow assistance. It does not replace institutional review board review, legal or regulatory advice, clinical judgment, or formal statistical consultation for complex or high-risk studies.

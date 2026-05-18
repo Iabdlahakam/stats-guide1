@@ -1,6 +1,18 @@
-
-site_name: Statistical Methods for Clinical Research
+site_name: Clinical Research Compass
+site_description: Expert guidance for rigorous and impactful clinical research.
 theme:
   name: material
+  logo: assets/logo-crc-compass.svg
+  favicon: assets/logo-crc-compass.svg
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
+  - Mission & Positioning: mission.md
+  - Brand System: brand.md
+  - Services: services.md
+  - Content System: social-media.md
+  - Research Question Starter Pack: research-question-starter-pack.md
+  - AI Assistant: ai-assistant.md
+  - Launch Plan: launch-plan.md
+  - Statistical Guide: statistical-guide.md

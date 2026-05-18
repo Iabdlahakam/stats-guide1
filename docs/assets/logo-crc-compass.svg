@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Clinical Research Compass logo</title>
+  <desc id="desc">Flat navy and teal compass mark with CRC letters inside.</desc>
+  <defs>
+    <style>
+      .navy{fill:#0B1F3A}.teal{fill:#0F9D9A}.white{fill:#FFFFFF}.stroke-navy{stroke:#0B1F3A}.stroke-teal{stroke:#0F9D9A}
+    </style>
+  </defs>
+  <circle cx="256" cy="256" r="216" fill="#FFFFFF" class="stroke-navy" stroke-width="24"/>
+  <circle cx="256" cy="256" r="166" fill="#F4FBFB" class="stroke-teal" stroke-width="10"/>
+  <path d="M256 54l29 74h-58l29-74zM256 458l-29-74h58l-29 74zM54 256l74-29v58l-74-29zM458 256l-74 29v-58l74 29z" class="teal"/>
+  <path d="M328 184l-44 100-100 44 44-100 100-44z" class="navy"/>
+  <path d="M184 328l44-100 100-44-44 100-100 44z" class="teal" opacity="0.9"/>
+  <circle cx="256" cy="256" r="86" class="navy"/>
+  <text x="256" y="279" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" class="white">CRC</text>
+</svg>
